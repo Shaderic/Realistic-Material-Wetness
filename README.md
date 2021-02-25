@@ -1,4 +1,4 @@
-# Realistic-Material-Wetness
+# Realistic Material Wetness
 A unified function to create realistic wet materials in Unity.
 
 ![](/Images/RealisticMaterialWetness700x300.png)
