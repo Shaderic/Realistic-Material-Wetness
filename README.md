@@ -7,3 +7,9 @@ Since physically based rendering (PBR) is now a standard in most games we try to
 
 We can easily distinguish between a dry and wet surface. The best visual cue is that wet surfaces look darker, have a higher specular value, and exhibit subtle changes in saturation.
 This behavior is made by rough/porous materials (brick, clay, concrete, plaster...), Absorbent materials (cotton, fabric), and organic materials like hair. Materials that are smooth don't change however since they are already reflecting a lot of light.
+
+System requirements
+-------------------
+
+- Unity 2020.2
+- Universal Render Pipeline 10.2.2
